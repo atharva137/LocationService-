@@ -1,4 +1,4 @@
-# LocationService-
+# LocationServiceMicroservice 
 ### Locations service responsible for autocompletion of address 
 ### JAVA spring boot  mircoservise responsible for autocompletion of address/places and also can be used to fetch address details 
 ### it uses ola location places apis to fetch places locations and its details such as latitudue and longutiude 
